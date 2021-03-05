@@ -11,7 +11,7 @@ ps:install all the required repos too
 
 
 
-demo website: twitter-clone-405f9.web.app
+demo website: https://twitter-clone-405f9.web.app/
 
 
 
